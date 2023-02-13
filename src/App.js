@@ -39,7 +39,6 @@ const App = () => {
             alt="search"
             onClick={() => {
               searchMovies(serchTerm);
-              console.log(movies);
             }}
           />
         </div>
